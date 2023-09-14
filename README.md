@@ -35,6 +35,9 @@ Keywords: “Aspiring human resources” or “seeking human resources”
 
 Predict how fit the candidate is based on their available information (variable fit)
 
+## Methodology and Conclusion
+Implemented an NLP model that ranked candidates according to the keywords of the job position, testing simple embedding models such as a bag of words, to transfer learning with BERT, obtaining a similarity cosine greater than 81% for the most suitable candidates.
+
 
 
 
