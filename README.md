@@ -1,5 +1,3 @@
-S1ofUWwDbCe0CDW1
-==============================
 
 ## Project description
 
