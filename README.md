@@ -37,6 +37,9 @@ In the course of this project, an NLP model was implemented to assess candidates
 The successful implementation of the NLP model showcased the effectiveness of employing diverse embedding techniques. From basic bag-of-words models to sophisticated BERT transfer learning, the approach yielded a substantial similarity cosine, surpassing 81%. This outcome underscores the model's capability in accurately ranking candidates based on job position keywords, offering a valuable tool for efficient and informed candidate selection.
 
 
+![image](https://github.com/joaothomazlemos/candidates-fitness-rank/assets/62029505/56cc5912-e05a-4add-9c5e-f61590c97979)
+
+
 
 #### Project Organization
 ------------
