@@ -30,9 +30,11 @@ Keywords: “Aspiring human resources” or “seeking human resources”
 
 Predict how fit the candidate is based on their available information (variable fit)
 
-## Methodology and Conclusion
-Implemented an NLP model that ranked candidates according to the keywords of the job position, testing simple embedding models such as a bag of words, to transfer learning with BERT, obtaining a similarity cosine greater than 81% for the most suitable candidates.
+## Methodology
+In the course of this project, an NLP model was implemented to assess candidates based on job position keywords. The approach involved testing various embedding models, starting from simple methods like a bag of words and progressing to advanced techniques such as transfer learning with BERT. The evaluation process aimed to achieve a similarity cosine exceeding 81% for identifying the most suitable candidates.
 
+## Conclusion
+The successful implementation of the NLP model showcased the effectiveness of employing diverse embedding techniques. From basic bag-of-words models to sophisticated BERT transfer learning, the approach yielded a substantial similarity cosine, surpassing 81%. This outcome underscores the model's capability in accurately ranking candidates based on job position keywords, offering a valuable tool for efficient and informed candidate selection.
 
 
 
